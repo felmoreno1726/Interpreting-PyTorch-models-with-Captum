@@ -14,13 +14,13 @@ pip install captum
 
 ## [Getting started with Captum](Getting_started_with_Captum_Insights.ipynb)
 
-![](doc/average_neuron_importance.png)
+![](doc/average_neuron_importance.PNG)
 
 This notebook will walk you through the process of analysing your model using Captum Insights
 
-## [Interpret computer vision model with Captum]([Interpret_computer_vision_model_with_Captum.ipynb])
+## [Interpret computer vision model with Captum](Interpret_computer_vision_model_with_Captum.ipynb)
 
-![](doc/interpret_vision_model.png)
+![](doc/interpret_vision_model.PNG)
 
 This notebook will walk you through the process of gaining information about your CNN with Captum. This notebook is based on one of Captums official tutorials.
 
